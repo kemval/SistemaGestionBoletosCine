@@ -1,0 +1,11 @@
+===== REPORTE GENERAL DE BOLETOS DE CINE =====
+Total de boletos vendidos: 3
+Promedio de precios: ₡23333.33
+Total recaudado: ₡70000.00
+
+Películas más populares:
+1- Pelicula 03: 1 boletos
+2- Pelicula 01: 1 boletos
+3- Pelicula 02: 1 boletos
+
+Reporte generado correctamente

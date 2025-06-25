@@ -1,0 +1,11 @@
+====== FACTURA DE COMPRA DE BOLETO ======
+Nombre del comprador: kembly
+Película: Pelicula 01
+Sala: 1
+Horario: 9:00 p.m.
+Asiento: si
+Precio: ₡10000.00
+Pago realizado: Sí
+
+Gracias por su compra.
+Disfrute la función

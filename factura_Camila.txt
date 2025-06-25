@@ -1,0 +1,11 @@
+====== FACTURA DE COMPRA DE BOLETO ======
+Nombre del comprador: camila
+Película: Pelicula 03
+Sala: 2
+Horario: 11:30 p.m.
+Asiento: t44
+Precio: ₡30000.00
+Pago realizado: Sí
+
+Gracias por su compra.
+Disfrute la función

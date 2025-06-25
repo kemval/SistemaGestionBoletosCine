@@ -1,0 +1,11 @@
+====== FACTURA DE COMPRA DE BOLETO ======
+Nombre del comprador: Alejandro
+Película: Pelicula 02
+Sala: 3
+Horario: 9:00 p.m.
+Asiento: si
+Precio: ₡20000.00
+Pago realizado: No
+
+Gracias por su compra.
+Disfrute la función

@@ -1,0 +1,9 @@
+===== REPORTE GENERAL DE BOLETOS DE CINE =====
+Total de boletos vendidos: 2
+Promedio de precios: ₡15000.00
+Total recaudado: ₡30000.00
+
+Películas más populares:
+1- Pelicula 02: 2 boletos
+
+Reporte generado correctamente por cinema feliz
